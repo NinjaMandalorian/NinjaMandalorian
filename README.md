@@ -1,4 +1,4 @@
-Currently learning Java
+Currently studying Software Engineering BSc
 <br>
 Collaborating on OOP Java Plugins
 <br>

@@ -1,5 +1,7 @@
 # Status
 
+[![wakatime](https://wakatime.com/badge/user/4a963381-47dd-4e74-9d03-b5dd1f96287a.svg)](https://wakatime.com/@4a963381-47dd-4e74-9d03-b5dd1f96287a)
+<br>
 Currently studying Software Engineering BSc
 <br>
 Working on Java, TS and more.
@@ -11,7 +13,7 @@ ImplodusNuclei#4996 - Discord for Contact
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-004866?style=for-the-badge&logo=luau&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

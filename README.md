@@ -11,7 +11,7 @@ ImplodusNuclei#4996 - Discord for Contact
 
 ---
 
-[![NinjaMandalorian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NinjaMandalorian&theme=tokyonight&hide_border=true)](https://wakatime.com/@NinjaMandalorian)
+![NinjaMandalorian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NinjaMandalorian&theme=tokyonight&hide_border=true)
 
 ---
 
